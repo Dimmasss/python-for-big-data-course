@@ -1,0 +1,1 @@
+print("Dmytro Sukailo, group 2, IPZ-2025")
